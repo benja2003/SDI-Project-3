@@ -242,4 +242,4 @@ if (shopping.goodShoppingDay (niceShoppingDay)) {
 		console.log (slangPhase);
 
 	};
-};
+};// JavaScript Document
