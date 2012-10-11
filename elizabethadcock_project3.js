@@ -1,5 +1,5 @@
 // Author: Elizabeth Adcock
-// Created for: SDI Online Course (SDI-O 1210) : Project 3 / Deliverable 3
+// Created for: SDI (SDI 1210) : Project 3 / Deliverable 3
 // Created on: 10/11/2012
 
 
